@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;MasterAddons\Modules\MegaMenu\JLTMA_Mega_Menu_Rest_API&quot; not found in <b>D:\PHP\XAMPP\htdocs\amirnow.github.io\wp-content\plugins\master-addons\inc\modules\mega-menu\inc\cpt-api.php</b> on line <b>5</b><br>
